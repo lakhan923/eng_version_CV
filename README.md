@@ -12,10 +12,10 @@ I am a 26-year old student studying Information and Communication Technology. I 
 
 ---
 ### IT skills and Developer Tools
-- **Languages & Development:** C#, HTML, CSS, JavaScript, PHP, jQuery, SQL, Python (perusteet)
+- **Languages & Development:** C#, HTML, CSS, JavaScript, PHP, jQuery, SQL, Python (basics)
 - **Editors:** Visual Studio, VS Code, Notepad++, Sublime Text
 - **Operating Systems & Tools:** Linux,  Microsoft Word, Excel, PowerPoint
-- **Version Control:** Git & GitHub sekä  Bitbucket/Stash; Managed branches, performed code reviews, and maintained smooth development workflow
+- **Version Control:** Git & GitHub as well as  Bitbucket/Stash; Managed branches, performed code reviews, and maintained smooth development workflow
 - **CMS & UI Frameworks:** WordPress, Windows Forms
 - **Databases::** MySQL, SQLite
 - **Web Technologies:** APIs and services (REST APIs), Web design, graphical user interfaces
@@ -45,7 +45,7 @@ I am a 26-year old student studying Information and Communication Technology. I 
 ---
 
 ### Work Experience
-- **31.01.2025 - 31.07.2025 (nykyinen):** Qvantel Finland Oy - Intern, Flex Engine Team (backend and frontend development)
+- **31.01.2025 - 31.07.2025:** Qvantel Finland Oy - Intern, Flex Engine Team (backend and frontend development)
 - **27.03.2023 - 28.04.2023:** Kortepohja Kindergarten - Intern, Finnish language use and speech skills development
 - **12.07.2021 - 30.07.2021:** Puistokatu Kindergarten - Intern, Finnish language use and speech skills development
 - **23.04.2021 - 28.05.2021:** Steiner Kindergarten Tähtitarha - Intern, Finnish language use and speech skills development
@@ -54,8 +54,8 @@ I am a 26-year old student studying Information and Communication Technology. I 
 
 ### Languages
 - **Pashto:** Mother tongue
-- **Englanti:** Fluent (speaking and writing)
-- **Suomi:** B1 (good everyday and work communication)
+- **English:** Fluent (speaking and writing)
+- **Finnish:** B1 (good everyday and work communication)
 - **Urdu:** National language
 ---
 ### Hobbies & Interests
