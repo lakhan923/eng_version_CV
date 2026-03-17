@@ -1,65 +1,81 @@
 # Laiba khan
-### Contact Information
-- Jyväskylä, Suomi
-- Phone: 0466364833
-- laaaibah@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/laiba-khan-a0484a27b/)  
-- [GitHub](https://github.com/lakhan923?tab=repositories)
-- [Portfolio](https://lakhan-portfolio.netlify.app/)
+40740 Jyväskylä, Finland
+Phone: 0466364833 | Email: laaaibah@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/laiba-khan-a0484a27b/)  | [GitHub](https://github.com/lakhan923?tab=repositories) | [Portfolio](https://lakhan-portfolio.netlify.app/) | [Itchio](https://laiba-khan.itch.io/)
 ---
 ###  Profile Text
-I am a 26-year old student studying Information and Communication Technology. I am a very hard-working, self-motivated, reliable, responsible, passionate and well-organized person. I am able to work well in a team as well as independently. I like to learn new things to develop my skills and thinking ability. My greatest passion in life is to use my technical knowledge for the benefit of other people and organizations.
+I am an ICT graduate with practical experience in software development through an internship in a professional development team. Familiar with backend and frontend technologies including Java, React, REST APIs, and Docker-based environments. I am a reliable and motivated learner who enjoys solving technical problems and improving software systems while working both independently and in a team. My goal is to use my technical knowledge to build useful solutions that support people and organizations.
 
 ---
-### IT skills and Developer Tools
-- **Languages & Development:** C#, HTML, CSS, JavaScript, PHP, jQuery, SQL, Python (basics)
-- **Editors:** Visual Studio, VS Code, Notepad++, Sublime Text
-- **Operating Systems & Tools:** Linux,  Microsoft Word, Excel, PowerPoint
-- **Version Control:** Git & GitHub as well as  Bitbucket/Stash; Managed branches, performed code reviews, and maintained smooth development workflow
-- **CMS & UI Frameworks:** WordPress, Windows Forms
-- **Databases::** MySQL, SQLite
-- **Web Technologies:** APIs and services (REST APIs), Web design, graphical user interfaces
-- **Debugging & Testing:** 
-  - Used browser developer tools to identify and fix UI bugs
-  - Corrected ESLint errors and formatted code using SBT
-  - Wrote unit tests in Java (circular dependency checks)
-- **Frontend:**
-  - **React.js:** Worked on form handling, search field results, URL parameter management, state management (React hooks), and modification of React-rnd component.
-  - **SCSS/CSS:** Fixed layout issues and applied responsive design.
-  - **UI/UX:** Improved user experience with customizable panels and clear layouts.
-- **Backend & Process Management:**
-  - **Java:** Developed Import Utility class by adding circular dependency detection for JS imports using ThreadLocal stack to prevent infinite loops. Wrote unit tests and added support for error handling.
-  - **Flowable / BPMN / Flex Studio:** Modified process definitions in Flex Studio, added missing fields for historical export, and optimized views by reducing duplicate database queries.
-- **DevOps & Containers:** 
-  - **Docker & docker-compose:** : Used docker-compose commands to start the Flex Studio development environment locally. Could stop and manage individual service containers (executor, manager, mock-executor) and edit docker-compose.yml file when needed.
-  - **Jenkins:** Fixed CI/CD pipeline build issues (formatting and ESLint errors) and learned to use sbt javafmtAll command compatible with Jenkins.
----
 
-### Education
-- **8.08.2023 - 19.12.2025:** Gradia Jyväskylä - Information and Communication Technology (Software Development)
-- **13.09.2022 - 21.06.2023:** Gradia Jyväskylä - TUVA (Tutkintokoulutukseen valmentava koulutus).
-- **13.09.2021 - 21.06.2022:** University of Jyväskylä - INTEGRA (Movi center for Multilingual Academic Communication)
-  - Programming 1 (6 ECTS), Web Design (2 ECTS), Digital Competence Fundamentals (3 ECTS)
-  - Finnish language skills (24 ECTS), English language skills (6 ECTS)
-- **19.10.2020 - 10.09.2021:** Integration training, Spring House Oy – Studied Finnish language, culture, and work life.
+### Technical Skills
+**Programming:** C#, JavaScript, PHP, SQL, Python (basic)
+**Frontend:** HTML, CSS, SCSS, React.js, jQuery
+**Backend:** Java, REST APIs
+**Databases:** MySQL, SQLite, MariaDB
+**Tools:** Visual Studio, VS Code, Git, GitHub, Bitbucket
+**DevOps:** Docker, Docker Compose, Jenkins
+**Other:** WordPress, Windows Forms, Linux
 ---
 
 ### Work Experience
-- **31.01.2025 - 31.07.2025:** Qvantel Finland Oy - Intern, Flex Engine Team (backend and frontend development)
-- **27.03.2023 - 28.04.2023:** Kortepohja Kindergarten - Intern, Finnish language use and speech skills development
-- **12.07.2021 - 30.07.2021:** Puistokatu Kindergarten - Intern, Finnish language use and speech skills development
-- **23.04.2021 - 28.05.2021:** Steiner Kindergarten Tähtitarha - Intern, Finnish language use and speech skills development
-- **5.02.2021 - 15.03.2021:** Asmalampi Kindergarten - Intern, Finnish language use and speech skills development
+**Software Developer Intern**
+Qvantel Finland Oy – Flex Engine Team
+Jan 2025 – Jul 2025
+- Developed backend and frontend features using Java and React
+- Implemented circular dependency detection for JavaScript imports using ThreadLocal stack
+- Wrote unit tests and improved error handling in backend services
+- Modified Flowable BPMN process definitions in Flex Studio
+- Fixed CI/CD pipeline issues in Jenkins (formatting and ESLint errors)
+- Worked with Docker and docker-compose to run local development environments
+- Improved UI layout and responsiveness using SCSS/CSS
+
+**Language Practice Internship:**
+Kortepohja Kindergarten – Mar 2023 – Apr 2023
+Puistokatu Kindergarten – Jul 2021
+Steiner Kindergarten Tähtitarha – Apr 2021 – May 2021
+Asmalampi Kindergarten – Feb 2021 – Mar 2021
+- Practiced Finnish language communication in real work environments
+- Assisted with daily activities and communication with children and staff
+---
+
+### Education
+**Vocational Qualification in ICT – Software Development**
+Gradia Jyväskylä
+Aug 2023 – Dec 2025
+- Scope: 180 osp (competence points)
+- Average grade: 4.8 / 5
+- Specialization: Software Development
+
+**Preparatory Education TUVA (Tutkintokoulutukseen valmentava koulutus)**
+Gradia Jyväskylä
+Sep 2022 – Jan 2023
+
+**Integra training – MOVI (Centre for Multilingual Academic Communication)**
+University of Jyväskylä
+Sep 2021 – Jun 2022
+
+**Courses included:**
+- Programming 1 (6 ECTS)
+- Web Design (2 ECTS)
+- Digital Competence Fundamentals (3 ECTS)
+- Finnish language studies (24 ECTS)
+- English language studies (6 ECTS)
+
+**Integration training – Finnish language**
+Spring House Oy
+Oct 2020 – Sep 2021
+- Studied Finnish language, culture, and Finnish working life.
 ---
 
 ### Languages
-- **Pashto:** Mother tongue
-- **English:** Fluent (speaking and writing)
-- **Finnish:** B1 (good everyday and work communication)
-- **Urdu:** National language
+Pashto – Native
+English – Fluent
+Finnish – B1 (work communication)
+Urdu – Fluent
 ---
 ### Hobbies & Interests
-- Badminton 
-- Walking in nature
-- Painting and photography (creativity and attention to detail) 
-- Hair styling and makeup artistry
+Badminton
+Walking in nature
+Painting and photography (creativity and attention to detail)
+Hair styling and makeup artistry
