@@ -1,6 +1,7 @@
 # Laiba khan
 40740 Jyväskylä, Finland
 Phone: 0466364833 | Email: laaaibah@gmail.com 
+
 [LinkedIn](https://www.linkedin.com/in/laiba-khan-a0484a27b/)  | [GitHub](https://github.com/lakhan923?tab=repositories) | [Portfolio](https://lakhan-portfolio.netlify.app/) | [Itchio](https://laiba-khan.itch.io/)
 
 ---
