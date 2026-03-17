@@ -42,7 +42,7 @@ Jan 2025 – Jul 2025
 - Worked with Docker and docker-compose to run local development environments
 - Improved UI layout and responsiveness using SCSS/CSS
 
-**Language Practice Internship:**
+- **Language Practice Internship:**
 
 Kortepohja Kindergarten – Mar 2023 – Apr 2023
 
