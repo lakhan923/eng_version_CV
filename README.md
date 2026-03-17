@@ -12,6 +12,7 @@ I am an ICT graduate with practical experience in software development through a
 
 ### Technical Skills
 **Programming:** C#, JavaScript, PHP, SQL, Python (basic)
+
 **Frontend:** HTML, CSS, SCSS, React.js, jQuery
 
 **Backend:** Java, REST APIs
@@ -28,7 +29,9 @@ I am an ICT graduate with practical experience in software development through a
 
 ### Work Experience
 **Software Developer Intern**
+
 Qvantel Finland Oy – Flex Engine Team
+
 Jan 2025 – Jul 2025
 
 - Developed backend and frontend features using Java and React
@@ -40,10 +43,15 @@ Jan 2025 – Jul 2025
 - Improved UI layout and responsiveness using SCSS/CSS
 
 **Language Practice Internship:**
+
 Kortepohja Kindergarten – Mar 2023 – Apr 2023
+
 Puistokatu Kindergarten – Jul 2021
+
 Steiner Kindergarten Tähtitarha – Apr 2021 – May 2021
+
 Asmalampi Kindergarten – Feb 2021 – Mar 2021
+
 - Practiced Finnish language communication in real work environments
 - Assisted with daily activities and communication with children and staff
   
@@ -51,21 +59,29 @@ Asmalampi Kindergarten – Feb 2021 – Mar 2021
 
 ### Education
 **Vocational Qualification in ICT – Software Development**
+
 Gradia Jyväskylä
+
 Aug 2023 – Dec 2025
+
 - Scope: 180 osp (competence points)
 - Average grade: 4.8 / 5
 - Specialization: Software Development
 
 **Preparatory Education TUVA (Tutkintokoulutukseen valmentava koulutus)**
+
 Gradia Jyväskylä
+
 Sep 2022 – Jan 2023
 
 **Integra training – MOVI (Centre for Multilingual Academic Communication)**
+
 University of Jyväskylä
+
 Sep 2021 – Jun 2022
 
 **Courses included:**
+
 - Programming 1 (6 ECTS)
 - Web Design (2 ECTS)
 - Digital Competence Fundamentals (3 ECTS)
@@ -73,21 +89,31 @@ Sep 2021 – Jun 2022
 - English language studies (6 ECTS)
 
 **Integration training – Finnish language**
+
 Spring House Oy
+
 Oct 2020 – Sep 2021
+
 - Studied Finnish language, culture, and Finnish working life.
 
 ---
 
 ### Languages
 Pashto – Native
+
 English – Fluent
+
 Finnish – B1 (work communication)
+
 Urdu – Fluent
 
 ---
 ### Hobbies & Interests
 Badminton
+
 Walking in nature
+
 Painting and photography (creativity and attention to detail)
+
 Hair styling and makeup artistry
+
