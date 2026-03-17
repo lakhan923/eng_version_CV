@@ -67,6 +67,7 @@ Aug 2023 – Dec 2025
 - Scope: 180 osp (competence points)
 - Average grade: 4.8 / 5
 - Specialization: Software Development
+
   
 
 **Preparatory Education TUVA (Tutkintokoulutukseen valmentava koulutus)**
@@ -74,6 +75,7 @@ Aug 2023 – Dec 2025
 Gradia Jyväskylä
 
 Sep 2022 – Jan 2023
+
 
 
 **Integra training – MOVI (Centre for Multilingual Academic Communication)**
@@ -89,6 +91,7 @@ Sep 2021 – Jun 2022
 - Digital Competence Fundamentals (3 ECTS)
 - Finnish language studies (24 ECTS)
 - English language studies (6 ECTS)
+
 
 
 **Integration training – Finnish language**
