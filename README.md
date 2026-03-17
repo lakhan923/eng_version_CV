@@ -12,7 +12,6 @@ I am an ICT graduate with practical experience in software development through a
 
 ### Technical Skills
 **Programming:** C#, JavaScript, PHP, SQL, Python (basic)
-
 **Frontend:** HTML, CSS, SCSS, React.js, jQuery
 
 **Backend:** Java, REST APIs
