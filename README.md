@@ -12,11 +12,17 @@ I am an ICT graduate with practical experience in software development through a
 
 ### Technical Skills
 **Programming:** C#, JavaScript, PHP, SQL, Python (basic)
+
 **Frontend:** HTML, CSS, SCSS, React.js, jQuery
+
 **Backend:** Java, REST APIs
+
 **Databases:** MySQL, SQLite, MariaDB
+
 **Tools:** Visual Studio, VS Code, Git, GitHub, Bitbucket
+
 **DevOps:** Docker, Docker Compose, Jenkins
+
 **Other:** WordPress, Windows Forms, Linux
 
 ---
@@ -25,6 +31,7 @@ I am an ICT graduate with practical experience in software development through a
 **Software Developer Intern**
 Qvantel Finland Oy – Flex Engine Team
 Jan 2025 – Jul 2025
+
 - Developed backend and frontend features using Java and React
 - Implemented circular dependency detection for JavaScript imports using ThreadLocal stack
 - Wrote unit tests and improved error handling in backend services
